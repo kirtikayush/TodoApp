@@ -58,18 +58,3 @@ A sleek and minimal Todo app built using **Flutter** and **Firebase**, with auth
  📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
----
-
-## 💼 LinkedIn Project Description
-
-> **Flutter Firebase Todo App**  
-> Built a full-featured Todo application using **Flutter** and **Firebase**, allowing users to securely sign up/login with Firebase Authentication and manage personal todo lists in real-time using Firestore. The app includes a modern dark-themed UI with linear gradients and user-specific data segregation.  
->  
-> 🔧 Tools Used: Flutter · Dart · Firebase Auth · Cloud Firestore · Google Fonts  
-> 🎯 Features: Authentication · Realtime CRUD · Gradient UI · User-specific data  
->  
-> 📱 _Deployed and tested on both Android and iOS simulators._
-
----
-
-Let me know if you'd like to include screenshots, badges, or add GitHub Actions for CI/CD!
