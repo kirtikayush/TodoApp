@@ -20,6 +20,13 @@ A sleek and minimal Todo app built using **Flutter** and **Firebase**, with auth
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="images/screenshot/loginempty.png" width="200"/>
+  <img src="images/screenshot/signup.png" width="200"/>
+  <img src="images/screenshot/loginfilled.png" width="200"/>
+  <img src="images/screenshot/mainpage.png" width="200"/>
+  <img src="images/screenshot/mainpage2.png" width="200"/>
+</p>
 
 
 ## 🛠 Setup Instructions
